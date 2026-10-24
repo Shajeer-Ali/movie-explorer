@@ -2,7 +2,7 @@
 
 A responsive movie browsing app built with React, TypeScript, and Vite, using the TMDB API.
 
-**Live demo:** [add your Vercel link here]
+https://movie-explorer-nine-eta.vercel.app/
 
 ## Features
 
